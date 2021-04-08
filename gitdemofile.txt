@@ -1,4 +1,4 @@
-Adding some test text. Adding a conflicting change remotely.
+Adding a conflicting change to the file. Adding some test text. Adding a conflicting change remotely
 123456789
 LocalRepoTextabcdefgAddingRemoteText
 987654321
