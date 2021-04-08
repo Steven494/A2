@@ -1,6 +1,0 @@
-This is the 1st line.
-Adding a conflicting change to the file. Adding some test text. Adding a conflicting change remotely
-123456789
-LocalRepoTextabcdefgAddingRemoteText
-987654321
-This is the 5th line.
