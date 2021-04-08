@@ -2,3 +2,4 @@ Adding some test text
 123456789
 abcdefg
 987654321
+This is the 5th line.
